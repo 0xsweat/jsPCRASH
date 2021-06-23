@@ -1,0 +1,16 @@
+.fullpage {
+  background-color: black;
+  color: ghostwhite;
+  text-align: center;
+}
+.no-margin {
+  margin-top: 0px;
+}
+	.nav-bar-1 {
+	background-color: red;
+		padding-width: 40px 100% 40px 100%;
+		border-style: solid;
+		border-color: black;
+		color: black;
+		margin-top: 0px;
+}
